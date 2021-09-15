@@ -3,7 +3,7 @@
 
 ## Description
 
-The following manual will help you setting up the development environment:
+The following description will help you undestanding concept.
 
 1. Client will authorize to the POST `/sign-in` endpoint REST and will receive in payload token
 2. To get available chat rooms auth user should GET `/chat-rooms` via REST endpoint to get possible chatRoomId and for example number of users in chat.
